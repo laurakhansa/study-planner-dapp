@@ -29,7 +29,6 @@ Unlike centralized applications, this DApp is **Wallet-Integrated**. It maps all
 ## Contract Details
 
 - **Testnet Smart Contract ID:** `[RCCUXDGCTKGY4PZMXP7ZALJYGU6WRSWH6ISHWM6LLC2AN4K4UPNGTMCJB]`
-- *(Insert screenshot of Testnet deployment/invocation here as required by the submission)*
 
 ## Future Scope
 
